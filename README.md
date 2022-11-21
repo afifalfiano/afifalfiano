@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React JS, Next JS**
 
-- 👨‍💻 All of my projects are available at [https://afifalfiano.my.id](https://afifalfiano.my.id)
+- 👨‍💻 All of my projects and blogs are available at [https://afifalfiano.my.id](https://afifalfiano.my.id)
 
 - 📝 I regularly write articles on [https://afifalfiano.my.id](https://afifalfiano.my.id)
 

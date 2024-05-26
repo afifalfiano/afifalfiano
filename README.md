@@ -7,13 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Nest JS, Next JS**
-
 - 👨‍💻 All of my projects and blogs are available at [https://afifalfiano.my.id](https://afifalfiano.my.id)
 
 - 📝 I regularly write articles on [https://afifalfiano.my.id](https://afifalfiano.my.id)
 
-- 💬 Ask me about **Angular 2+, Vue JS, React JS, Nest JS**
+- 💬 Ask me about **Angular 2+, Vue JS, React JS, Next JS, Nest JS**
 
 - 📫 How to reach me **afifalfiano2@gmail.com**
 

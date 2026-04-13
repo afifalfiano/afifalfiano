@@ -9,10 +9,10 @@ Currently working remotely at **Jublia** (Singapore) — an AI-native event plat
 
 ### What I work with
 
-**Frontend** — Angular, TypeScript, RxJS, Ionic/Capacitor, React, Vue  
-**Backend** — Node.js, Express, PostgreSQL, Prisma  
+**Frontend** — Angular, TypeScript, RxJS, Ionic/Capacitor, React, Vue, Next.js  
+**Backend** — Node.js, Express, NestJS, PostgreSQL, Prisma  
 **Infra** — Docker, GitHub Actions, Nginx, VPS (Ubuntu)  
-**Observability** — Grafana, Grafana Faro  
+**Observability** — Grafana, Grafana Faro, Google Analytics  
 
 ---
 
@@ -22,7 +22,7 @@ Currently working remotely at **Jublia** (Singapore) — an AI-native event plat
 - **[Mood Tracker](https://mood-tracker.pipdev.net)** — Full-stack personal app with Vite + Express + PostgreSQL + Docker, deployed via CI/CD
 - **[filter-ticket](https://npmjs.com/package/filter-ticket)** — Angular library for dynamic ticket filtering
 - **[monitor-subscription](https://npmjs.com/package/monitor-subscription)** — RxJS subscription leak detector for Angular
-- **TamaPip** — Tamagotchi-style browser pet game (React, fully spec'd with PRD + TRD)
+- **[TamTamPip](https://tamtampip.pipdev.net)** — Tamagotchi-style browser pet game (React, fully spec'd with PRD + TRD)
 
 ---
 
@@ -35,7 +35,7 @@ I write about frontend engineering, AI tooling, and developer workflows.
 
 ### Let's connect
 
-[Portfolio](https://pipdev.net) · [LinkedIn](https://linkedin.com/in/afifalfiano) · [Email](mailto:afifalfiano2@gmail.com)
+[pipdev.net](https://pipdev.net) · [LinkedIn](https://linkedin.com/in/afifalfiano) · [Email](mailto:afifalfiano2@gmail.com)
 
 ---
 
